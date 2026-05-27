@@ -12,6 +12,17 @@ let a=2
 let b=++a;
 console.log(b);
 
+console.log(+" ");//here + convert empty string to number as 0
 
+
+const  as = ()=>
+{
+   console.log("dsf");
+   
+}
+as()
+const  mul =( (a,b)=>{
+    console.log("hello",a);
+})(2,2);
 
 
