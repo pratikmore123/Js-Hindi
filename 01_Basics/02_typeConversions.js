@@ -9,7 +9,7 @@ let bool2=Boolean(bool1)
 console.log(bool2)
 
 let a=2
-let b=a;
+let b=++a;
 console.log(b);
 
 
